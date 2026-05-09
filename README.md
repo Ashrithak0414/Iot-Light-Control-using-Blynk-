@@ -61,8 +61,3 @@ System setup snapshot
 Expected Output
 ![Alternative Text](image/image5.png)
        Figure 5: Relay module in ON state indicating successful actuation via Blynk application
-Project Demonstration
-▶️ CLICK THE IMAGE BELOW TO WATCH THE VIDEO DEMONSTRATION
-
-IoT Light Control with Blynk Demo
-YouTube video showing a real-time demonstration of controlling a relay module over Wi-Fi using the NodeMCU ESP8266 and the Blynk smartphone application.
